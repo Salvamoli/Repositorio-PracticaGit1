@@ -12,4 +12,7 @@ services:
     build: ./PedroMarcos
     container_name: marcos-container
 
-
+services:
+Salvador:
+build: ./Equipo/Salvamoli
+container_name: salvamoli-contenedor
